@@ -1,0 +1,11 @@
+ipykernel
+python-dotenv
+fastapi
+uvicorn
+langchain_core
+langchain_groq
+langchain
+langserve
+streamlit
+sse-starlette
+github
